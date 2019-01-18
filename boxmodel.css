@@ -12,16 +12,22 @@ margin:0; padding:0;
 
 body {
     border:2px dotted green;
+    margin:20px;
 }
 
 h1{
     border: thin dashed red;
+    padding: 25px 15px;
+    margin: 20px 20px;
 }
 
 p{
    border: thin dashed purple;
+    padding:10px 5px;
+    margin:20px 20px;
 }
 
 main {
     border: 3px solid blue;
+    margin: 25px 25px;
 }
